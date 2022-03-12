@@ -9,3 +9,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaubu&show_icons=true&locale=en" alt="kaubu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaubu&" alt="kaubu" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaubu&exclude_repo=wikijs,kaubu.github.io)](https://github.com/anuraghazra/github-readme-stats)
